@@ -1,5 +1,5 @@
 # purple-unicorns-syntax theme
 
-A short description of your theme.
+"Normally unicorns are white but these are purple" - Ovi
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![purple-unicorns-syntax theme](./unicorn-smoking.gif)
